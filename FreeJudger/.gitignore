@@ -1,0 +1,12 @@
+*.sdf
+*.suo
+*.opensdf
+*.log
+*.tlog
+*.pch
+*.obj
+*.pdb
+*.idb
+*.lastbuildstate
+*.cache
+ipch
